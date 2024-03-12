@@ -106,13 +106,13 @@ else:
 
 ## OUTPUT:
 ### Policy 1:
-![Screenshot 2024-03-12 124807](https://github.com/sivabalan28/rl-policy-evaluation/assets/113497347/73fd0730-6c2d-4a3d-be0a-9471646324be)
+![Screenshot 2024-03-12 142857](https://github.com/sivabalan28/rl-policy-evaluation/assets/113497347/29e48c0b-2a9d-4a09-948f-75bca33dec72)
 
 ### Policy 2:
-![Screenshot 2024-03-12 124937](https://github.com/sivabalan28/rl-policy-evaluation/assets/113497347/4b4d4dc2-1951-4227-94b7-6afa2a93d397)
+![Screenshot 2024-03-12 142926](https://github.com/sivabalan28/rl-policy-evaluation/assets/113497347/d877435c-a117-4c98-b4b4-0de0f08477cf)
 
 ### Conclusion:
-![Screenshot 2024-03-12 125031](https://github.com/sivabalan28/rl-policy-evaluation/assets/113497347/b2777777-22b8-43d0-9c02-65c1c6b00de8)\
+![Screenshot 2024-03-12 143246](https://github.com/sivabalan28/rl-policy-evaluation/assets/113497347/551c0113-f42b-460d-bfae-d6bbef2c5d91)
 
 ## RESULT:
 Thus, a Python program is developed to evaluate the given policy.
